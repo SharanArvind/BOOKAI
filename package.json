@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "react-scripts": "^5.0.1",
+    "tar": "^6.2.0"
+  }
+}
